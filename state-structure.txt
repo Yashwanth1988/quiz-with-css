@@ -1,0 +1,49 @@
+
+store = {
+
+	quiz : [
+		{
+			 question : "What is your company name ?",
+			 options : {
+				'a' : 'Persistent'
+				'b' : 'DBS',
+				'c' : 'Google',
+				'd' : 'Well Fargo'
+			 }
+		{
+			 question : "Which of the following are libraries ?",
+			 options : {
+				'a' : 'React'
+				'b' : 'Vue',
+				'c' : 'Backbone',
+				'd' : 'All of the above'
+			 }
+	   },
+	   {
+			 question : "Which library uses Virtual DOM ?",
+			 options : {
+				'a' : 'Backbone'
+				'b' : 'Vue',
+				'c' : 'React',
+				'd' : 'All of the above'
+			 }
+	   },
+	   {
+			 question : "Which one of the below is a Framework ?",
+			 options : {
+				'a' : 'React'
+				'b' : 'Vue',
+				'c' : 'Angular',
+				'd' : 'All of the above'
+			 }
+	   }
+	],
+
+	selectedOptions : [
+		{ '1' : 'a' },
+		{ '2' : 'd' },
+		{ '3' : 'c' },
+		{ '4' : 'c' }
+	]
+
+}

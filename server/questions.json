@@ -1,0 +1,44 @@
+{
+    "questions": [{
+            "question": "What is your company name ?",
+            "id": "10001",
+            "options": {
+                "a": "Persistent",
+                "b": "DBS",
+                "c": "Google",
+                "d": "Well Fargo"
+            }
+        },
+        {
+            "question": "Which of the following are libraries ?",
+            "id": "10014",
+            "options": {
+                "a": "React",
+                "b": "Vue",
+                "c": "Backbone",
+                "d": "All of the above"
+            }
+        },
+        {
+            "question": "Which library uses Virtual DOM ?",
+            "id": "10023",
+            "options": {
+                "a": "Backbone",
+                "b": "Vue",
+                "c": "React",
+                "d": "All of the above"
+            }
+        },
+        {
+            "question": "Which one of the below is a Framework ?",
+            "id": "10034",
+            "options": {
+                "a": "React",
+                "b": "Vue",
+                "c": "Angular",
+                "d": "All of the above"
+            }
+        }
+    ]
+}
+
